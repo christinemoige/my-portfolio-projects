@@ -166,6 +166,14 @@ Welcome to my professional project portfolio! Here I showcase my hands-on IT pro
 | 📈 Uptime | 99.9% system availability |
 | 💼 Business Impact | 50% increase in online inquiries |
 
+## 📊 Tableau Projects
+
+Here are my interactive data visualization projects created with Tableau:
+
+| Project | Description | Link |
+|---------|-------------|------|
+| **Human Resource Dashboard** | Interactive dashboard analyzing Company employees performance according to salary, and age gaps | [View Dashboard →](https://public.tableau.com/app/profile/christine.moige/viz/HRPROJECT_17714386238770/HRSUMMARY1) |
+
 ---
 
 ## 📞 Connect With Me
