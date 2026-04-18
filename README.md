@@ -2,7 +2,7 @@
 Showcasing my IT projects in network infrastructure, remote support, security systems, and web development
 # 🚀 Christine Moige - IT Project Portfolio
 
-> **IT Support Officer | Network Administrator | Cybersecurity Enthusiast**
+> **IT Support Officer | Network Administrator | Cybersecurity Enthusiast|Data Analyst**
 > 
 > 📞 +254 (0) 712 954 702 | ✉ moigechristinenyayiemi@gmail.com
 
