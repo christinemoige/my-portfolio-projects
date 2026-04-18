@@ -12,12 +12,6 @@ Showcasing my IT projects in network infrastructure, remote support, security sy
 
 Welcome to my professional project portfolio! Here I showcase my hands-on IT projects from my 7+ years of experience in the financial, construction, and education sectors.
 
-| Category | Projects |
-|----------|----------|
-| 🔐 **Network & Security** | 4 Projects |
-| 💻 **Remote Support** | 3 Projects |
-| 🌐 **Web Development** | 2 Projects |
-| 🖥️ **Hardware Solutions** | 3 Projects |
 
 ---
 
@@ -41,6 +35,14 @@ Welcome to my professional project portfolio! Here I showcase my hands-on IT pro
 📂 **[View Full Project Details](./projects/active-directory-setup.md)**
 
 ---
+
+## 📊 Tableau Projects
+
+Here are my interactive data visualization projects created with Tableau:
+
+| Project | Description | Link |
+|---------|-------------|------|
+| **Human Resource Dashboard** | Interactive dashboard analyzing Company employees performance according to salary, and age gaps | [View Dashboard →](https://public.tableau.com/app/profile/christine.moige/viz/HRPROJECT_17714386238770/HRSUMMARY1) |
 
 ### 2. 💻 Remote IT Support System Implementation
 **Client:** Ports Sacco Society Ltd  
@@ -166,13 +168,7 @@ Welcome to my professional project portfolio! Here I showcase my hands-on IT pro
 | 📈 Uptime | 99.9% system availability |
 | 💼 Business Impact | 50% increase in online inquiries |
 
-## 📊 Tableau Projects
 
-Here are my interactive data visualization projects created with Tableau:
-
-| Project | Description | Link |
-|---------|-------------|------|
-| **Human Resource Dashboard** | Interactive dashboard analyzing Company employees performance according to salary, and age gaps | [View Dashboard →](https://public.tableau.com/app/profile/christine.moige/viz/HRPROJECT_17714386238770/HRSUMMARY1) |
 
 ---
 
